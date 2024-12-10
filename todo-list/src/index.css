@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.otstup{
+  margin-left: 15px; /* Отступ слева */
+  margin-right: 15px; /* Отступ справа */
+}
+
+.first-buttonotstup{
+  margin-left: 15px; /* Отступ слева */
+  
+}
+
+.otstup-werh{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  
+}
+
+.krai{
+  outline: 1px black solid ;
+}
